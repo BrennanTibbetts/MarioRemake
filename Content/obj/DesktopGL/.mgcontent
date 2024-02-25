@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/BiggerClouds.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/Clouds.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/coinHUD.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/enemysprsht.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/flag.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/HillsAndBushes.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/mario_Items.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/marioHUD.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/mariosprsht.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/PiranhaSprt.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SecretBG.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/smbcastle.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/mario_sound_track_acc.mp3</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/mario_sound_track.mp3</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_1-up.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_bowserfall.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_bowserfire.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_breakblock.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_bump.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_coin.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_fireball.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_fireworks.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_flagpole.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_gameover.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_jump-super.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_jumpsmall.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_kick.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_mariodie.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_pause.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_pipe.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_powerup_appears.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_powerup.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_stage_clear.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_stomp.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_vine.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_warning_song.mp3</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_warning.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/smb_world_clear.wav</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/super-mario-bro.spritefont</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/tileSpritesheet.png</File>
+    <File>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/warppipe.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

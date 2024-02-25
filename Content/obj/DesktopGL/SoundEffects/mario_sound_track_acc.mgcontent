@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/SoundEffects/mario_sound_track_acc.mp3</SourceFile>
+  <SourceTime>2023-04-04T21:57:48.219234-04:00</SourceTime>
+  <DestFile>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/bin/DesktopGL/SoundEffects/mario_sound_track_acc.xnb</DestFile>
+  <DestTime>2023-04-04T22:22:20.8340026-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Neskol/source/repos/Sprint4-BeanTeam/Content/bin/DesktopGL/SoundEffects/mario_sound_track_acc.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
